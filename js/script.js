@@ -18,5 +18,5 @@ document.getElementById('yesButton').addEventListener('click', function() {
   const yesButton = document.getElementById('yesButton');
 
   yesButton.addEventListener('click', function() {
-    window.location.href = 'igra/інший_файл.html';
+    window.location.href = 'igra/geme.html';
   });
