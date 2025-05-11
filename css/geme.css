@@ -1,17 +1,17 @@
        body {
             font-family: "Arial", sans-serif;
             background-color: #388e3c; 
-            color: #f0f8f0; 
+            color: #f0f8f0;
             margin: 0;
             padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-        }
+       }
 
         .container {
-            background-color: rgba(0, 0, 0, 0.7);
+            background-color: rgba(0, 0, 0, 0.7); 
             padding: 40px;
             border-radius: 10px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
@@ -47,7 +47,7 @@
         }
 
         .button-wrapper button {
-            background-color: #689f38;
+            background-color: #689f38; 
             color: white;
             padding: 15px 30px;
             border: none;
@@ -62,26 +62,26 @@
         }
 
         .hover-text {
-            display: none;
+            display: none; 
             margin-top: 5px;
             font-style: italic;
-            color: #c0ca33; 
+            color: #c0ca33;
             font-size: 0.9em;
         }
 
         .button-wrapper:hover .hover-text {
-            display: block; 
+            display: block;
         }
 
         #response {
             margin-top: 20px;
             font-style: italic;
-            color: #c0ca33; 
+            color: #c0ca33;
         }
 
         footer {
             margin-top: 50px;
-            color: #8bc34a; 
+            color: #8bc34a;
             font-size: 0.9em;
             text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
         }
